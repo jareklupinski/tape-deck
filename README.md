@@ -1,5 +1,5 @@
 # tape-deck
-tape-deck, a user-unfriendly design
+a user-unfriendly design
 
 ![rotating2](https://github.com/jareklupinski/tape-deck/assets/2049284/5d65ea3b-a821-443e-8f9f-23ac4459a8b3)
 ```
