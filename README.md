@@ -28,3 +28,14 @@ want you to listen to it like this.
 thank you
 
 ![tapedeck_5](https://github.com/jareklupinski/tape-deck/assets/2049284/236c66be-9675-4926-ac38-19e10e4343b4)
+
+# MAKING OF
+
+Circuit Board Design
+![image](https://github.com/jareklupinski/tape-deck/assets/2049284/9b663b2b-f254-49e9-b3ca-17a7e31a84ee)
+
+Schematic
+![image](https://github.com/jareklupinski/tape-deck/assets/2049284/febef359-7b1c-4f71-91ac-79dbf2362a26)
+
+Code
+Derived from https://github.com/elehobica/pico_crp42602y_ctrl/tree/main
