@@ -37,5 +37,9 @@ Circuit Board Design
 Schematic
 ![image](https://github.com/jareklupinski/tape-deck/assets/2049284/febef359-7b1c-4f71-91ac-79dbf2362a26)
 
+Enclosure
+![image](https://github.com/jareklupinski/tape-deck/assets/2049284/a2e2d20c-f9b7-4e28-9867-eb0dd4e7f902)
+
+
 Code
 Derived from https://github.com/elehobica/pico_crp42602y_ctrl/tree/main
