@@ -1,9 +1,7 @@
 # tape-deck
 a user-unfriendly design
 
-<p align="center">
-  ![rotating2](https://github.com/jareklupinski/tape-deck/assets/2049284/5d65ea3b-a821-443e-8f9f-23ac4459a8b3)
-</p>
+![rotating2](https://github.com/jareklupinski/tape-deck/assets/2049284/5d65ea3b-a821-443e-8f9f-23ac4459a8b3)
 ```
 to play music, just give it a tape.
 tape-deck plays to end of the tape,
